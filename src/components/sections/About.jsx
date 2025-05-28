@@ -7,7 +7,7 @@ import "swiper/css/navigation";
 
 export const About = () => {
   const skills = [
-    { name: "React", logo: "/skills/react.png" },
+    { name: "React", logo: "/skills/react-removebg-preview.png" },
     { name: "Express.js", logo: "/skills/expressjs.png" },
     { name: "BootStrap", logo: "/skills/bootstrap.png" },
     { name: "TailwindCSS", logo: "/skills/taiwind.png" },
